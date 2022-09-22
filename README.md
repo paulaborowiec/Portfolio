@@ -46,7 +46,7 @@ Project description: writing and designing test cases based on functionality req
 Technologies: TestRail, Jira, Intellij IDEA
 
 * [test cases](https://drive.google.com/drive/u/7/folders/1uA1csHBFTv0RPjlp7VREKZX_hPGME-PD)
-* [bug reports](https://drive.google.com/drive/u/7/folders/10qKTiE50SJgh72xU96f8b6tm3WuwCO_C)
+* [bug reports](https://drive.google.com/file/d/1uPL4ZDAjrmtD1FhcbvjqAZSi52ZUj2I-/view)
 * [scenerio in BDD](https://drive.google.com/drive/u/7/folders/11Z8skE3twJSD87Gkf9CpFGQh-Y7rYNQs)
 
 ## Interests
